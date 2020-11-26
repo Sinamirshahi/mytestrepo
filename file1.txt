@@ -1,2 +1,2 @@
 the main version of file
-some paid feature
+some paid/free features
